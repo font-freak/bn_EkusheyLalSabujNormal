@@ -15,6 +15,10 @@ This module systemlessly replaces your default Bengali (Bangla) font with Ekushe
 * Does *not* have a distinctive Medium TypeFace
 
 ## Changelog
+### v1.03 - 07.06.2020
+* Removed all Samsung support.
+### v1.02 - 04.06.2020
+* Added support for Samsung Android 10.
 ### v1.01 - 20.02.2020
 * Separated Normal and Accented variants into different modules.
 * Added option to cancel installation.
